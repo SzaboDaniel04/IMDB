@@ -114,4 +114,6 @@ Ukazuje, ktoré regióny generujú najväčšie tržby z filmov. Môže to ukáz
     GROUP BY r.region
     ORDER BY total_gross DESC;
 
+Autor: Daniel Szabó
+
 
